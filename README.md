@@ -16,3 +16,5 @@ This project implements real-time hand gesture recognition using a custom-traine
 2. **Model Training**: A YOLOv8 model is trained on the annotated dataset (in YOLO format).
 3. **Inference**: The trained model is used to detect and classify gestures in real-time from the webcam.
 4. **Visualization**: Bounding boxes and labels for recognized gestures are drawn live on video frames.
+## Download Dataset
+Download the custom dataset from Roboflow: https://app.roboflow.com/ds/VgY9Kpzk9p?key=P2DjWCsPPS
