@@ -1,4 +1,3 @@
-# yolov8-hand-gesture-recognition
 # Hand Gesture Recognition using YOLOv8
 This project implements real-time hand gesture recognition using a custom-trained YOLOv8 model. The model is capable of detecting 5 distinct gestures from live webcam input:
 - Open Palm
